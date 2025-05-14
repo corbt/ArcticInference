@@ -30,5 +30,5 @@ packages = [
 
 [project.optional-dependencies]
 vllm = [
-    'vllm==0.8.4',
+    'vllm==0.8.5.post1',
 ]
